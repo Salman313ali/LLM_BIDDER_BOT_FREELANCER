@@ -146,4 +146,3 @@ Portfolio LINKS:
         except Exception as e:
             print(f"Error composing bid template: {e}")
             return bid_content
-
